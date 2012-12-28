@@ -1,0 +1,27 @@
+[28-Dec-2012 14:12:43] PHP Warning:  include(/home/santos/public_html/cake1/app/Config/core.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/santos/public_html/cake1/lib/Cake/Core/Configure.php on line 76
+[28-Dec-2012 14:12:43] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/home/santos/public_html/cake1/app/Config/core.php' for inclusion (include_path='/home/santos/public_html/cake1/lib:.:/usr/lib/php:/usr/local/lib/php') in /home/santos/public_html/cake1/lib/Cake/Core/Configure.php on line 76
+[28-Dec-2012 14:12:43] PHP Fatal error:  Can't find application core file. Please create /home/santos/public_html/cake1/app/Config/core.php, and make sure it is readable by PHP. in /home/santos/public_html/cake1/lib/Cake/Core/Configure.php on line 77
+[28-Dec-2012 14:13:07] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:07] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:07] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:44] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:44] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:44] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:45] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:45] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:45] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:54] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:54] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:54] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:56] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:56] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:56] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:58] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:13:58] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:13:58] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:14:11] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:14:11] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:14:11] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:14:26] PHP Warning:  _cake_core_ cache was unable to write 'cake_dev_en-us' to File cache in /home/santos/public_html/cake1/lib/Cake/Cache/Cache.php on line 309
+[28-Dec-2012 14:14:26] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/persistent/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
+[28-Dec-2012 14:14:26] PHP Warning:  /home/santos/public_html/cake1/app/tmp/cache/models/ is not writable in /home/santos/public_html/cake1/lib/Cake/Cache/Engine/FileEngine.php on line 336
