@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 tmp/**/*
-=======
 tmp/*
->>>>>>> 795a3b2350858fa5aac97e1486a5df801562fdf1
 [Cc]onfig/core.php
 [Cc]onfig/database.php
 app/tmp/*
@@ -10,6 +7,3 @@ app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 <<<<<<< HEAD
 !empty
-=======
-!empty
->>>>>>> 795a3b2350858fa5aac97e1486a5df801562fdf1
