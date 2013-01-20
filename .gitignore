@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+tmp/**/*
+>>>>>>> e5b0d39f12f7c4ab99984e20bfa5e68dd40d3b7f
 tmp/*
 [Cc]onfig/core.php
 [Cc]onfig/database.php
@@ -5,7 +9,10 @@ app/tmp/*
 app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 <<<<<<< HEAD
+<<<<<<< HEAD
 !empty
 =======
 !empty
 >>>>>>> 899a4e91f9f94919768da599c4041432265195f1
+=======
+>>>>>>> e5b0d39f12f7c4ab99984e20bfa5e68dd40d3b7f

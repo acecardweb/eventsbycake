@@ -29,6 +29,7 @@
 /**
  * ...and connect the rest of 'Pages' controller's urls.
  */
+<<<<<<< HEAD
 
 	Router::connect('/inscricao', array('controller' => 'inscricoes', 'action' => 'inscrever'));
 
@@ -47,6 +48,9 @@
 			'id' => '[0-9]+'
 	));
 
+=======
+	Router::connect('/informacoes/*', array('controller' => 'pages', 'action' => 'display'));
+>>>>>>> e5b0d39f12f7c4ab99984e20bfa5e68dd40d3b7f
 
 /**
  * Load all plugin routes.  See the CakePlugin documentation on

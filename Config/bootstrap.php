@@ -179,6 +179,7 @@ CakeLog::config('error', array(
 	'types' => array('warning', 'error', 'critical', 'alert', 'emergency'),
 	'file' => 'error',
 ));
+<<<<<<< HEAD
 
 
 
@@ -204,3 +205,5 @@ Inflector::rules('plural',array(
 	),
 	'uninflected' => array ()
 )); //end inflector plural
+=======
+>>>>>>> e5b0d39f12f7c4ab99984e20bfa5e68dd40d3b7f
