@@ -2342,3 +2342,99 @@
 #1 /Applications/MAMP/htdocs/evento/lib/Cake/Routing/Dispatcher.php(161): Dispatcher->_invoke(Object(PalestrantesController), Object(CakeRequest), Object(CakeResponse))
 #2 /Applications/MAMP/htdocs/evento/app/webroot/index.php(92): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2013-01-20 19:45:35 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:45:35 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:45:41 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:45:41 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:45:45 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:45:45 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:52 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:52 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:53 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:53 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:54 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:54 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:54 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:54 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:55 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:55 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:55 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:55 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:55 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:55 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:55 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:55 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-01-20 19:46:55 Error: Fatal Error (4): syntax error, unexpected '<<' (T_SL) in [/Applications/MAMP/htdocs/evento/app/Config/bootstrap.php, line 182]
+2013-01-20 19:46:55 Error: [FatalErrorException] syntax error, unexpected '<<' (T_SL)
+#0 /Applications/MAMP/htdocs/evento/lib/Cake/Error/ErrorHandler.php(161): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Applications/M...', 182)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#2 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(926): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Applications/M...', 182, Array)
+#3 /Applications/MAMP/htdocs/evento/lib/Cake/Core/App.php(899): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
